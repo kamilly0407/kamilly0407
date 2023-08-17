@@ -1,16 +1,13 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🖤
 
-<!--
-**kamilly0407/kamilly0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é kamilly
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br) 
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entra em cotato comigo 📫
+
+kamilly.souza.araujo@escola.pr.gov.br
+
+![naruto](https://github.com/kamilly0407/kamilly0407/assets/142518996/8774b28d-b78d-4a6c-800f-e9f71911abe6)
